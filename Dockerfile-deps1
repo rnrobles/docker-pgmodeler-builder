@@ -1,4 +1,4 @@
-FROM handcraftedbits/pgmodeler-builder-cc
+FROM rnrobles87/pgmodeler-builder-cc
 LABEL com.handcraftedbits.image.authors="opensource@handcraftedbits.com"
 LABEL net.baotran.image.authors="contact@baotran.net"
 

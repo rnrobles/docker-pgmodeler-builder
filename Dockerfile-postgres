@@ -1,4 +1,4 @@
-FROM handcraftedbits/pgmodeler-builder-deps2:latest
+FROM rnrobles87/pgmodeler-builder-deps2:latest
 MAINTAINER HandcraftedBits <opensource@handcraftedbits.com>
 
 ARG VERSION_POSTGRESQL=REL_13_6
