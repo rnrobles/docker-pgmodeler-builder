@@ -57,7 +57,7 @@ function build() {
 
      cp -R ${dir_plugins}/imageformats ${dir_plugins_install}
      cp ${dir_plugins}/platforms/qwindows.dll ${dir_plugins_install}/platforms
-     #cp -R ${dir_plugins}/printsupport ${dir_plugins_install}
+     cp -R ${dir_plugins}/printsupport ${dir_plugins_install}
 }
 
 function clone_source() {
